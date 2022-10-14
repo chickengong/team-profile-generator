@@ -25,4 +25,4 @@ The user will be asked for their GitHub and other info.
 
 ## Repository
 
-[Github Link] : 
+[Github Link] :  https://chickengong.github.io/team-profile-generator/
