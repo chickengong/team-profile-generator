@@ -5,6 +5,7 @@
 A node.js Command-line that takes information about certain people (employees) on a team, that has a HTML webpage that shows the information / summeries of each person. 
 
 ### App working example
+![team summary generator ](https://user-images.githubusercontent.com/108504537/195734033-a9890243-8bf0-4f67-b15f-5b9de1486a30.jpg)
 
 
 
