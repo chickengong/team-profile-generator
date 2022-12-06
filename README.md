@@ -26,3 +26,6 @@ The user will be asked for their GitHub and other info.
 ## Repository
 
 [Github Link] :  https://chickengong.github.io/team-profile-generator/
+
+# Git hub link:
+https://github.com/chickengong/team-profile-generator
